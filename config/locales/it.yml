@@ -26,7 +26,7 @@ it:
         firstname: "Nome"
         lastname: "Cognome"
         phone: 'Telefono'
-        state: "Stato"
+        state: "Provincia"
         zipcode: "CAP"
       spree/country: 
         iso: 'ISO'
@@ -41,7 +41,7 @@ it:
         verification_value: "Codice di verifica"
         year: 'Anno'
       spree/inventory_unit: 
-        state: 'Stato'
+        state: 'Provincia'
       spree/line_item: 
         price: 'Prezzo'
         quantity: 'Quantità'
